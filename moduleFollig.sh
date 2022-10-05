@@ -13,4 +13,4 @@ echo "Package Already Installed"
 pip install requests colorama bs4
 echo "pip Already Installed"
 sleep 3
-python ig.py
+python follig.py
